@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Alias": {
+      "commandName": "Project",
+      "commandLineArgs": "sayhello=\"php -r \\\"echo 'Hi, there!';\\\"\""
+    }
+  }
+}

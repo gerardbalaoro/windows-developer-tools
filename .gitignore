@@ -1,0 +1,12 @@
+*.sublime-workspace
+*~
+._*
+page.html
+checkver-*.html
+
+### DotnetCore ###
+# .NET Core build folders
+bin/
+obj/
+publish/
+.vs/
